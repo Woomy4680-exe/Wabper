@@ -15,4 +15,4 @@ tower = "0.4.11"
 
 [dependencies.diesel]
 features = ["postgres", "r2d2"]
-version = "1.4.4"
+version = "2.2.3"

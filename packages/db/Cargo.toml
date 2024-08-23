@@ -10,7 +10,7 @@ diesel_migrations = "1.4.0"
 
 [dependencies.diesel]
 features = ["postgres", "r2d2"]
-version = "1.4.4"
+version = "2.2.3"
 
 [dependencies.wabper-common]
 path = "../common"
